@@ -1,4 +1,4 @@
-# **Installing Python and Jupyter Notebook**
+# **Download and Installation of Python and Jupyter Notebook**
 
 # Step 1:
 Download and install the latest Python version. Next install Jupyter Notebook or Jupyter LAb using the commnad prompt. Follow the YouTube link below:
@@ -21,4 +21,8 @@ Intall PIP in python in order to install numpy, pandas and more Python libraries
 Install numpy, pandas and matplotlib.Follow the link below:
 
 https://youtu.be/dVK02eeeGhQ?si=JSa7YzV0XlVpQCEN 1:56 Start the video.
+
+# **MexEE 402: Git & GitHub Introduction (Tagalog)**
+
+https://youtube.com/playlist?list=PLUgsbeZHs9qPGengAh8OiX-qY37goB-bD&si=XH5eZb9eLcWCxSBP
 
