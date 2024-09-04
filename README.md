@@ -12,15 +12,18 @@ Run Jupyter Notebook on VSCode.Install VSCode and set-up the Jupyter Notebook ex
  
  https://youtu.be/zulGMYg0v6U?si=nv_voZ59zf-abZRc 13:39 Running Jupyter Notebooks
 
+
 # Step 3: 
 Intall PIP in python in order to install numpy, pandas and more Python libraries. Follow the link below:
 
  https://youtu.be/TqE4jBH4Me4?si=aAmOXJykT3s874Qx
 
+
 # Step 4:
 Install numpy, pandas and matplotlib.Follow the link below:
 
 https://youtu.be/dVK02eeeGhQ?si=JSa7YzV0XlVpQCEN 1:56 Start the video.
+
 
 # **MexEE 402: Git & GitHub Introduction (Tagalog)**
 
