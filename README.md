@@ -5,5 +5,6 @@
 
 # Step 2: (optional)
  Run Jupyter Notebook on VSCode.Install VSCode and set-up the Jupyter Notebook extension.Follow the YouTube links below:
+ 
  https://youtu.be/Od3ItO2aKAY?si=r-W7lHC4nzg-26_3
  https://youtu.be/zulGMYg0v6U?si=nv_voZ59zf-abZRc 13:39 Running Jupyter Notebooks
